@@ -2,8 +2,7 @@
 
 ### Full Stack
 
-Como Ingeniero en Tecnologías de la Información con experiencia tanto en tecnologías de front-end como de back-end, estoy comprometido con el progreso en todos los aspectos de mi vida. Como emprendedor nato, siempre estoy buscando nuevas oportunidades para crecer profesionalmente. Soy adaptable y me siento cómodo trabajando en una amplia variedad de entornos. Soy autodidacta y siempre estoy dispuesto a aceptar nuevos desafíos. Además, soy atento, organizado y, sobre todo, responsable en todo lo que hago.
-
+Como ingeniero en tecnologías de la información, tengo experiencia tanto en tecnologías de front-end como de back-end, y tengo un profundo conocimiento de las mejores prácticas de desarrollo de software. Esto me permite crear aplicaciones web y móviles de alta calidad que son fáciles de usar y que satisfacen las necesidades de los usuarios. Estoy comprometido con el progreso en todos los aspectos de mi vida, tanto personal como profesional. Como emprendedor nato, siempre estoy buscando nuevas oportunidades para crecer y aprender. Soy adaptable y me siento cómodo trabajando en una amplia variedad de entornos. Soy autodidacta y siempre estoy dispuesto a aceptar nuevos desafíos. Además, soy atento, organizado y, sobre todo, responsable en todo lo que hago.
 
 ## Tecnologías:
 #### Desarrollo Móvil:
