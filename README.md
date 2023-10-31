@@ -1,13 +1,13 @@
-## Hola, mi nombre es Steven Barragan 👋<br>
+## Hi, my name is Steven Barragan 👋<br>
 
 ### Full Stack
 
-Como ingeniero en tecnologías de la información, tengo experiencia tanto en tecnologías de front-end como de back-end, y tengo un profundo conocimiento de las mejores prácticas de desarrollo de software. Esto me permite crear aplicaciones web y móviles de alta calidad que son fáciles de usar y que satisfacen las necesidades de los usuarios. Estoy comprometido con el progreso en todos los aspectos de mi vida, tanto personal como profesional. Como emprendedor nato, siempre estoy buscando nuevas oportunidades para crecer y aprender. Soy adaptable y me siento cómodo trabajando en una amplia variedad de entornos. Soy autodidacta y siempre estoy dispuesto a aceptar nuevos desafíos. Además, soy atento, organizado y, sobre todo, responsable en todo lo que hago.
+As an IT engineer, I have experience in both front-end and back-end technologies, and I have a deep understanding of software development best practices. This allows me to create high quality web and mobile applications that are easy to use and meet user needs. I am committed to progress in all aspects of my life, both personally and professionally. As a natural born entrepreneur, I am always looking for new opportunities to grow and learn. I am adaptable and comfortable working in a wide variety of environments. I am self-taught and always willing to take on new challenges. In addition, I am attentive, organized and, above all, responsible in everything I do.
 
-## Tecnologías:
-#### Desarrollo Móvil:
+## Technologies:
+#### Mobile Development:
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
-#### Desarrollo Web:
+#### Web Development:
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)]()
@@ -16,7 +16,7 @@ Como ingeniero en tecnologías de la información, tengo experiencia tanto en te
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010)]()
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
-#### Bases de Datos:
+#### Data Bases:
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
